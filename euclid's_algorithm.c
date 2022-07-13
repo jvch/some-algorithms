@@ -1,6 +1,7 @@
 //Example: Euclid's Algorithm
 
 #include <stdio.h>
+
 int gcd(int u, int v)
 {
     int t;
